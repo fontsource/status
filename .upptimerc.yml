@@ -10,12 +10,16 @@ sites:
     url: https://api.fontsource.org/v1/fonts/abel
 
 status-website:
+  name: Fontsource Status
   cname: status.fontsource.org
   logoUrl: https://fontsource.org/fontsource-logo.png
   favicon: https://fontsource.org/fontsource-logo.png
   faviconSvg: https://fontsource.org/fontsource-logo.svg
-  name: Fontsource
   introTitle: "**Fontsource** uptime monitor and status page."
+  css: body{font-family:InterVariable,sans-serif}
+  links:
+    - rel: stylesheet
+      href: https://cdn.jsdelivr.net/npm/@fontsource/inter@4/variable.css
   navbar:
     - title: Status
       href: /
