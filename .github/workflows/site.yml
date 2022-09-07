@@ -17,7 +17,7 @@ on:
 jobs:
   release:
     name: Build and deploy site
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-18.04
     if: "!contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout
@@ -36,5 +36,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "Upptime Bot"
-          user_email: "73812536+upptime-bot@users.noreply.github.com"
+          user_name: "fontsource-bot"
+          user_email: "83556432+fontsource-bot@users.noreply.github.com"
