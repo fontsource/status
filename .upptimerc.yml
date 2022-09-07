@@ -1,4 +1,3 @@
-# Change these first
 owner: fontsource
 repo: status
 
@@ -13,6 +12,8 @@ sites:
 status-website:
   cname: status.fontsource.org
   logoUrl: https://fontsource.org/fontsource-logo.png
+  favicon: https://fontsource.org/fontsource-logo.png
+  faviconSvg: https://fontsource.org/fontsource-logo.svg
   name: Fontsource
   introTitle: "**Fontsource** uptime monitor and status page."
   navbar:
@@ -26,3 +27,6 @@ status-website:
 commitMessages:
   commitAuthorName: "fontsource-bot"
   commitAuthorEmail: "83556432+fontsource-bot@users.noreply.github.com"
+
+i18n:
+  footer: ''
