@@ -5,9 +5,9 @@ repo: status
 sites:
   - name: Website
     url: https://fontsource.org
-  - name: API: Fontlist
+  - name: 'API: Fontlist'
     url: https://api.fontsource.org/fontlist
-  - name: API: V1 Single Font
+  - name: 'API: V1 Single Font'
     url: https://api.fontsource.org/v1/fonts/abel
 
 status-website:
