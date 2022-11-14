@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 251,
-    "timeWeek": 213,
+    "time": 218,
+    "timeDay": 178,
+    "timeWeek": 205,
     "timeMonth": 212,
-    "timeYear": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 530,
-    "timeDay": 585,
-    "timeWeek": 593,
-    "timeMonth": 543,
-    "timeYear": 530,
+    "time": 532,
+    "timeDay": 652,
+    "timeWeek": 622,
+    "timeMonth": 546,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2022-10-06": 35
     }
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-v1-single-font",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 155,
-    "timeDay": 151,
-    "timeWeek": 155,
-    "timeMonth": 160,
+    "timeDay": 175,
+    "timeWeek": 163,
+    "timeMonth": 159,
     "timeYear": 155,
     "dailyMinutesDown": {
       "2022-10-06": 34
