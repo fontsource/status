@@ -22,10 +22,10 @@
     "url": "https://api.fontsource.org/fontlist",
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-fontlist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "97.63%",
-    "uptimeWeek": "99.66%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 542,
@@ -34,6 +34,7 @@
     "timeMonth": 585,
     "timeYear": 542,
     "dailyMinutesDown": {
+      "2022-12-03": 2,
       "2022-12-02": 34,
       "2022-10-06": 35
     }
@@ -43,10 +44,10 @@
     "url": "https://api.fontsource.org/v1/fonts/abel",
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-v1-single-font",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "97.73%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 156,
@@ -55,6 +56,7 @@
     "timeMonth": 161,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2022-12-03": 0,
       "2022-12-02": 33,
       "2022-10-06": 34
     }
