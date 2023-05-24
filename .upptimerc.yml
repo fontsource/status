@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: Website
-    url: https://fontsource.org
+    url: https://fontsource.org/docs/getting-started/introduction # Don't query index to save Algolia credits
   - name: 'API: Fontlist'
     url: https://api.fontsource.org/fontlist
   - name: 'API: V1 Single Font'
