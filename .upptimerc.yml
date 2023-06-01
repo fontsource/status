@@ -12,14 +12,13 @@ sites:
 status-website:
   name: Fontsource Status
   cname: status.fontsource.org
-  logoUrl: https://fontsource.org/fontsource-logo.png
-  favicon: https://fontsource.org/fontsource-logo.png
-  faviconSvg: https://fontsource.org/fontsource-logo.svg
+  logoUrl: https://fontsource.org/apple-touch-icon.png
+  favicon: https://fontsource.org/favicon-16x16.png
   introTitle: "**Fontsource** uptime monitor and status page."
-  css: body{font-family:InterVariable,sans-serif}
+  css: body{font-family:'Inter Variable',sans-serif}
   links:
     - rel: stylesheet
-      href: https://cdn.jsdelivr.net/npm/@fontsource/inter@4/variable.css
+      href: https://cdn.jsdelivr.net/npm/@fontsource-variable/inter@5
   navbar:
     - title: Status
       href: /
