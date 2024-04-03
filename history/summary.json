@@ -4,19 +4,19 @@
     "url": "https://fontsource.org/docs/getting-started/introduction",
     "icon": "https://icons.duckduckgo.com/ip3/fontsource.org.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 322,
+    "time": 336,
+    "timeDay": 396,
     "timeWeek": 469,
-    "timeMonth": 349,
+    "timeMonth": 352,
     "timeYear": 396,
     "dailyMinutesDown": {
-      "2024-04-03": 0
+      "2024-04-03": 20
     }
   },
   {
