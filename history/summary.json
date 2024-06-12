@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
-    "timeDay": 388,
-    "timeWeek": 306,
-    "timeMonth": 306,
+    "timeDay": 356,
+    "timeWeek": 314,
+    "timeMonth": 311,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2024-04-03": 20
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 904,
-    "timeWeek": 291,
+    "timeDay": 207,
+    "timeWeek": 284,
     "timeMonth": 252,
     "timeYear": 266,
     "dailyMinutesDown": {}
@@ -43,15 +43,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-v1-single-font",
     "status": "up",
-    "uptime": "99.50%",
+    "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 337,
-    "timeWeek": 109,
-    "timeMonth": 189,
+    "timeDay": 231,
+    "timeWeek": 138,
+    "timeMonth": 196,
     "timeYear": 151,
     "dailyMinutesDown": {}
   }
