@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 373,
-    "timeWeek": 374,
-    "timeMonth": 370,
-    "timeYear": 397,
+    "timeDay": 337,
+    "timeWeek": 369,
+    "timeMonth": 369,
+    "timeYear": 398,
     "dailyMinutesDown": {
       "2024-04-03": 20
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-fontlist",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 191,
-    "timeWeek": 248,
-    "timeMonth": 225,
+    "time": 297,
+    "timeDay": 402,
+    "timeWeek": 267,
+    "timeMonth": 228,
     "timeYear": 257,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 141,
-    "timeDay": 25,
-    "timeWeek": 79,
-    "timeMonth": 72,
-    "timeYear": 146,
+    "time": 142,
+    "timeDay": 211,
+    "timeWeek": 95,
+    "timeMonth": 77,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   }
 ]
