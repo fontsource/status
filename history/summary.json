@@ -24,18 +24,20 @@
     "url": "https://api.fontsource.org/fontlist",
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-fontlist",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 277,
-    "timeWeek": 277,
-    "timeMonth": 239,
-    "timeYear": 240,
-    "dailyMinutesDown": {}
+    "time": 257,
+    "timeDay": 4433,
+    "timeWeek": 1316,
+    "timeMonth": 500,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   },
   {
     "name": "API: V1 Single Font",
