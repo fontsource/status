@@ -44,17 +44,19 @@
     "url": "https://api.fontsource.org/v1/fonts/abel",
     "icon": "https://icons.duckduckgo.com/ip3/api.fontsource.org.ico",
     "slug": "api-v1-single-font",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 268,
-    "timeWeek": 128,
-    "timeMonth": 144,
-    "timeYear": 113,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 5211,
+    "timeWeek": 1381,
+    "timeMonth": 457,
+    "timeYear": 141,
+    "dailyMinutesDown": {
+      "2025-06-12": 0
+    }
   }
 ]
