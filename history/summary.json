@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 537,
-    "timeDay": 387,
-    "timeWeek": 636,
+    "time": 538,
+    "timeDay": 789,
+    "timeWeek": 663,
     "timeMonth": 666,
-    "timeYear": 614,
+    "timeYear": 615,
     "dailyMinutesDown": {
       "2024-09-01": 52
     }
@@ -26,14 +26,14 @@
     "slug": "api-fontlist",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "97.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 257,
-    "timeDay": 3045,
-    "timeWeek": 1192,
-    "timeMonth": 497,
+    "timeDay": 261,
+    "timeWeek": 1191,
+    "timeMonth": 496,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2025-06-12": 42
@@ -46,14 +46,14 @@
     "slug": "api-v1-single-font",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "97.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 159,
-    "timeDay": 3403,
-    "timeWeek": 1200,
-    "timeMonth": 436,
+    "timeDay": 30,
+    "timeWeek": 1199,
+    "timeMonth": 430,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2025-06-12": 31
