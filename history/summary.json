@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 603,
-    "timeDay": 269,
-    "timeWeek": 1219,
-    "timeMonth": 809,
-    "timeYear": 703,
-    "dailyMinutesDown": {
-      "2024-09-01": 52
-    }
+    "timeDay": 596,
+    "timeWeek": 1170,
+    "timeMonth": 797,
+    "timeYear": 704,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API: Fontlist",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 263,
-    "timeDay": 272,
-    "timeWeek": 296,
-    "timeMonth": 283,
+    "timeDay": 248,
+    "timeWeek": 299,
+    "timeMonth": 282,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-08-14": 61,
@@ -53,9 +51,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 145,
-    "timeDay": 42,
-    "timeWeek": 88,
-    "timeMonth": 188,
+    "timeDay": 46,
+    "timeWeek": 49,
+    "timeMonth": 171,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-08-14": 61,
