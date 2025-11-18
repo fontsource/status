@@ -1,7 +1,7 @@
 url: https://api.fontsource.org/fontlist
-status: down
-code: 500
-responseTime: 130
-lastUpdated: 2025-11-18T11:32:34.888Z
+status: up
+code: 200
+responseTime: 442
+lastUpdated: 2025-11-18T12:57:53.302Z
 startTime: 2022-09-07T17:04:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
