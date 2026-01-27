@@ -1,7 +1,7 @@
 url: https://api.fontsource.org/v1/fonts/abel
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-01-27T20:14:28.092Z
+status: up
+code: 200
+responseTime: 204
+lastUpdated: 2026-01-27T20:41:44.060Z
 startTime: 2022-09-07T17:04:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
